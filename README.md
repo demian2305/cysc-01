@@ -1,7 +1,7 @@
 # ADC - Sensor de Temperatura
 
 ```
-Alumnos: Jorge Echezuria; Demian Heis*
+Alumnos: Jorge Echezuria; Demian Heis
 
 Curso: 6to 2da Aviónica
 
